@@ -3,7 +3,9 @@
     <div class="card">
       <img alt="Logo" src="./assets/logo.png" class="card-img-top px-4 py-3" />
       <div class="card-body">
-        <h5 class="card-title text-center">Welcome to the OHF content server</h5>
+        <h5 class="card-title text-center">
+          Welcome to the OHF content server
+        </h5>
         <p class="card-text text-center">
           Please select an application from the list below:
         </p>
@@ -32,9 +34,13 @@ export default {
           label: "phpMyAdmin",
           url: "/phpmyadmin",
         },
-          {
+        {
           label: "Cockpit",
           url: "https://ohfsrv01:9090",
+        },
+        {
+          label: "Kiwix",
+          url: "https://ohfsrv01:8002",
         },
       ],
     };
