@@ -40,7 +40,7 @@ export default {
         },
         {
           label: "Kiwix",
-          url: "https://ohfsrv01:8002",
+          url: "http://ohfsrv01:8002",
         },
       ],
     };
