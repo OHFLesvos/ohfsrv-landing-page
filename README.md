@@ -1,4 +1,4 @@
-# ohfsrv-landing-page
+# OHF Content Server Landing Page
 
 ## Project setup
 ```

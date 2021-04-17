@@ -1,5 +1,6 @@
 {
   "name": "ohfsrv-landing-page",
+  "description": "OHF Content Server Landing Page",
   "version": "0.1.0",
   "private": true,
   "scripts": {
